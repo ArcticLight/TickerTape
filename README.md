@@ -13,5 +13,7 @@ Next steps would be to actually get this to probe the net for interesting things
 That way, it really will be like an old ticker tape, a stream of news!
 
 TODO: Code commenting and cleanup; current version was authored in two hours and involves terrible coding style.
+
 TODO: Make this connect to the internet and grab interesting things to say, maybe from a newsfeed, or just print out a random Wikipedia article?
+
 TODO: More fun with scrolling, possibly more than one line of text on screen at once, racing each other?
